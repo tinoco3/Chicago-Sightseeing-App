@@ -43,10 +43,6 @@ A Flutter mobile application showcasing popular attractions in Chicago across th
 - Dart
 - Android Studio/VSCode (optional)
 
-### Installation
-1. Clone this repository
-2. Run `flutter pub get` to install dependencies
-3. Launch with `flutter run`
 
 ## Screenshots
 
