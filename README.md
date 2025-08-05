@@ -1,5 +1,6 @@
 # Chicago Sightseeing App
-
+- Author: Marco A. Tinoco Sosa
+  
 A Flutter mobile application showcasing popular attractions in Chicago across three categories: Neighborhoods, Events, and Sports.
 
 ## Features
